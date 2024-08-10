@@ -27,18 +27,18 @@ A simple Contact Management System developed using Node.js, Express.js, and Reac
 cd contact-manager
 ### Install dependencies:
 #### Install Front-end dependencies:
-cd contact mangement 
+cd contact mangement  
 npm install
 #### Install Back-end dependencies:
-cd my-server
+cd my-server  
 npm install
 ## Running the Application
 ### Start the development server:
 #### Start the frontend application:
-cd contact mangement 
+cd contact mangement     
 npm start
 #### Start the frontend application:
-cd my-server
+cd my-server  
 node server.js
 
 Open your web browser and navigate to http://localhost:3000 to view the application.
